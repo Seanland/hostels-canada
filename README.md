@@ -15,10 +15,10 @@ TBD
 - Create an issue so a contributor can make the required changes
 - Make the required changes yourself and make a pull request
 
-# Rules
+### Rules
 - Please Mark all unknown answers as NULL
 
-## Feature Requests!
+### Feature Requests!
 TBD
 
 ## Structure
@@ -99,4 +99,4 @@ Below is the formatting and structure as to how each entry is to be listed:
 ## Contributors
 - [Sean Clarke](http://seanland.ca)
 
-## Created and maintained by [Sean Clarke](http://seanland.ca)
+### Created and maintained by [Sean Clarke](http://seanland.ca)
