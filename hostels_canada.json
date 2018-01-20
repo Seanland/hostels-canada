@@ -1,31 +1,4 @@
-# Canadian Hostels
-A List of Hostels in Canada
-
-This JSON file is a list of specific information targeting the hostels of Canada.
-
-Each entry will include the following information:
-- Geographical Information: Latitude, Longtitude, Address and Province
-- 3rd Party websites for booking (Using referral links - refer below)
-- Contact Information: phone number, website and various emails (front desk, manager, etc.).
-
-How to use the data:
-TBD
-
-## How to Contribute
-- Create an issue so a contributor can make the required changes
-- Make the required changes yourself and make a pull request
-
-# Rules
-- Please Mark all unknown answers as NULL
-
-## Feature Requests!
-TBD
-
-## Structure
-Below is the formatting and structure as to how each entry is to be listed:
-
 [
-  ...
   {
     "name":"HI Ottawa Jail",
     "website":"http://hihostels.ca/en/destinations/ontario/hi-ottawa",
@@ -92,10 +65,4 @@ Below is the formatting and structure as to how each entry is to be listed:
       "instagram":"https://www.instagram.com/hiottawajail/"
     }
   }
-  ...
 ]
-
-## Contributors
-- [Sean Clarke](http://seanland.ca)
-
-## Created and maintained by [Sean Clarke](http://seanland.ca)
