@@ -23,7 +23,7 @@ TBD
 
 ## Structure
 Below is the formatting and structure as to how each entry is to be listed:
-
+```
 [
   ...
   {
@@ -94,6 +94,7 @@ Below is the formatting and structure as to how each entry is to be listed:
   }
   ...
 ]
+  ```
 
 ## Contributors
 - [Sean Clarke](http://seanland.ca)
