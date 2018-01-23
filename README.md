@@ -5,7 +5,6 @@ This JSON file is a list of specific information targeting the hostels of Canada
 
 Each entry will include the following information:
 - Geographical Information: Latitude, Longtitude, Address and Province
-- 3rd Party websites for booking (Using referral links - refer below)
 - Contact Information: phone number, website and various emails (front desk, manager, etc.).
 
 How to use the data:
@@ -15,15 +14,15 @@ TBD
 - Create an issue so a contributor can make the required changes
 - Make the required changes yourself and make a pull request
 
-# Rules
+### Rules
 - Please Mark all unknown answers as NULL
 
-## Feature Requests!
+### Feature Requests!
 TBD
 
 ## Structure
 Below is the formatting and structure as to how each entry is to be listed:
-
+```
 [
   ...
   {
@@ -94,8 +93,9 @@ Below is the formatting and structure as to how each entry is to be listed:
   }
   ...
 ]
+  ```
 
 ## Contributors
 - [Sean Clarke](http://seanland.ca)
 
-## Created and maintained by [Sean Clarke](http://seanland.ca)
+### Created and maintained by [Sean Clarke](http://seanland.ca)
